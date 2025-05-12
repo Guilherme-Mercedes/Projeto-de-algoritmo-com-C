@@ -10,7 +10,7 @@ void addRecebimento()
 {
     float valor;
 
-    printf("Entre o valor revebido: \n");
+    printf("Entre o valor recebido: \n");
     scanf("%f", &valor);
 
     recebimento[numRecebimento][0] = numOperacao;
@@ -21,7 +21,7 @@ void addRecebimento()
     numRecebimento++;
     numOperacao++;
 
-    printf("\nOperação conlcuida com sucesso.\n");
+    printf("\nOperação concluida com sucesso.\n");
 }
 
 void addDespesas()
@@ -39,7 +39,7 @@ void addDespesas()
     numDespesas++;
     numOperacao++;
 
-    printf("\nOperação conlcuida com sucesso.\n");
+    printf("\nOperação concluida com sucesso.\n");
 }
 
 void saldo()
