@@ -1,0 +1,6 @@
+- Armazenar valores recebidos; 
+- Armazenar valores pagos;
+- Calcular o saldo a partir dos valores informados anteriores;
+- Imprimir o extrato das operacoes;
+- Calcular o imposto a ser pago;
+- Fornecer menu de interacao.
